@@ -1,0 +1,17 @@
+{
+  "name": "restWithMongoDB",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Jaime691/restWithMongoDB.git",
+  "author": "Jaime <jmayorgadev@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.3.6"
+  }
+}
